@@ -1,0 +1,174 @@
+body{
+    font-family: Montserrat;
+}
+
+
+
+#title{
+    background-color: brown;
+    
+    
+}
+h1{
+     font-family:"Montserrat-Black" ;
+     font-size: 4.5rem;
+     line-height: 1.5;
+     width: 80%;
+     margin-top: 4rem;
+     font-weight: bolder;
+     padding-bottom: 3rem;
+     
+    
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.image{
+    width: 18%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 28%;
+}
+#navbarSupportedContent{
+    position: relative;
+    left: 45%;
+    
+}
+.navbar-brand{
+    font-family: "Montserrat";
+    font-weight: bolder;
+    font-size: 4rem;
+    
+}
+.row{
+    padding-top: 3rem;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 1.2rem;
+}
+.buttonorg{
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+}
+.pro{
+    
+    font-size: 5rem;
+    margin-bottom: 1.5rem;
+    color: #ef8172;
+   text-align: center;
+}
+h3{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    margin: auto;
+    
+    margin-bottom: 1.3rem;
+    font-family: "Montserrat bold";
+    
+
+    
+}
+.pro:hover{
+    color: brown;
+}
+p{
+    width: 70%;
+    text-align: center;
+    color: #8f8f8f;
+    font-size: 1.3rem;
+}
+
+
+#features{
+  margin-bottom: 6rem;  
+  position: relative;
+  z-index: 1;
+  background-color: white;
+}
+.para{
+    position: relative;
+    left: 15%;
+    text-align: center;
+}
+.middle{
+    position: relative;
+    
+text-align: center;
+}
+.middle-1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: bolder;
+    line-height: 1.5;
+    text-align: center;
+    padding-bottom: 4rem;
+    width: 70%;
+    margin: auto;
+}
+.testimonial-image{
+    text-align: center;
+    margin: auto;
+    position: relative;
+    left: 40%;
+    width: 12%;
+    border-radius: 100%;
+}
+em{
+    position: relative;
+    left: 45%;
+    font-size: 1.3rem;
+
+}
+#testimonials{
+   padding: 7% 15%; 
+   background-color: brown;
+}
+#press{
+    padding: 7% 15%;
+    background-color: brown;
+}
+.press-image{
+    width: 20%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    position: relative;
+    left: 8%;
+}
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+.pricing-style{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: bolder;
+    line-height: 1.5;
+}
+.para-1{
+    position: relative; left: 15%;
+}
+#cta{
+    text-align: center;
+    background-color: brown;
+    padding: 7% 15%;
+}
+.container-fluid{
+    padding-bottom: 6rem;
+}
+#footer{
+    padding: 5% 15%;
+    text-align: center;
+}
+.fa{
+    padding-left: 2rem;
+    font-size: 1.5rem;
+}
+.foot{
+    width: 23%;
+    padding-right: 3rem;
+    padding-left: 2rem;
+}
